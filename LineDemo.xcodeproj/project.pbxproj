@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7029E8A2269D4610074E6DA /* UIView+ImaginaryLine.m in Sources */ = {isa = PBXBuildFile; fileRef = C7029E882269D4600074E6DA /* UIView+ImaginaryLine.m */; };
 		C7B07128225EE5DB0077D540 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C7B07127225EE5DB0077D540 /* AppDelegate.m */; };
 		C7B0712B225EE5DB0077D540 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7B0712A225EE5DB0077D540 /* ViewController.m */; };
 		C7B0712E225EE5DB0077D540 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7B0712C225EE5DB0077D540 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C7029E882269D4600074E6DA /* UIView+ImaginaryLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ImaginaryLine.m"; sourceTree = "<group>"; };
+		C7029E892269D4600074E6DA /* UIView+ImaginaryLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ImaginaryLine.h"; sourceTree = "<group>"; };
 		C7B07123225EE5DB0077D540 /* LineDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LineDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7B07126225EE5DB0077D540 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C7B07127225EE5DB0077D540 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				C7B07127225EE5DB0077D540 /* AppDelegate.m */,
 				C7B07129225EE5DB0077D540 /* ViewController.h */,
 				C7B0712A225EE5DB0077D540 /* ViewController.m */,
+				C7029E892269D4600074E6DA /* UIView+ImaginaryLine.h */,
+				C7029E882269D4600074E6DA /* UIView+ImaginaryLine.m */,
 				C7B0712C225EE5DB0077D540 /* Main.storyboard */,
 				C7B0712F225EE5DC0077D540 /* Assets.xcassets */,
 				C7B07131225EE5DC0077D540 /* LaunchScreen.storyboard */,
@@ -264,6 +269,7 @@
 			files = (
 				C7B0712B225EE5DB0077D540 /* ViewController.m in Sources */,
 				C7B07136225EE5DC0077D540 /* main.m in Sources */,
+				C7029E8A2269D4610074E6DA /* UIView+ImaginaryLine.m in Sources */,
 				C7B07128225EE5DB0077D540 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
